@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm KC S.Handoc</h1>
-<h3 align="center">A 3rd Year College study so hard so that i become a web designer someday</h3>
+<h3 align="center">A 3rd Year College. I study hard so that i become a web designer someday</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 
