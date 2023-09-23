@@ -3,7 +3,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://vidhi-mody.github.io/img/contribute.gif">
 
-
+<h3 align="center">"I am a 3rd Year College Student  in BSIT course, and i do my best to study hard  because i  wish to become a Web designer someday
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kchandocsabillona&label=Profile%20views&color=0e75b6&style=flat" alt="kchandocsabillona" /> </p>
 
