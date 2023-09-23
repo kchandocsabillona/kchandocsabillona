@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm KC S.Handoc</h1>
 <h3 align="center">"I am a 3rd Year College Student  in BSIT course, and i do my best to study hard  because i  wish to become a Web designer someday
 </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="Coding" width="400" src="https://vidhi-mody.github.io/img/contribute.gif">
 
 
 
